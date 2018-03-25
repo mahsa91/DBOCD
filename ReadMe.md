@@ -52,7 +52,7 @@ Note
 The "gnmi" function is not written by me. Thanks to "Erwan Le Martelot" for the useful function. It is included to make the project easy to run.
 The function is related to "Kert?sz; Detecting the overlapping and hierarchical community structure in complex networks, New Journal of Physics, 2009)" paper.
 
-Disclaimer
+Bug report
 ------------
 If you find a bug, please send a bug report to mghorbani@ce.sharif.edu including if necessary the input file and the parameters that caused the bug.
 You can also send me any comment or suggestion about the program.
